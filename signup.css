@@ -1,0 +1,17 @@
+.btn {
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+  /* color: #7099FF; */
+  text-align: center;
+  font-size: 15px;
+  
+}
+
+form{
+  margin-left: 42%;
+  /* margin-left: 800px; */
+}
+
+.welcome{
+  text-align: center;
+}
