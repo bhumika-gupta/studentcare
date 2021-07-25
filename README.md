@@ -8,35 +8,35 @@ a web app that 3 teammates and I built in 3 days for our Kode with Klossy final 
 📍 toronto, ontario, canada  
 coding 💻 - UX design 🎨 - badminton 🏸 - piano 🎹  
 🧑‍💻 worked on  
-home page with sherlyn  
-timer page with sherlyn  
-note-taking page  
-helped with JS for music page  
+* home page with sherlyn  
+* timer page with sherlyn  
+* note-taking page  
+* helped with JS for music page  
   
 ### sherlyn yao
 ✍going into grade 10 next year  
 📍toronto, ontario, canada  
 🎻cello  🎨art/anime  🎮gaming  🏐volleyball  🎧music  
 ⌨️worked on  
-home page with bhumika  
-timer page with bhumika  
-sign in/sign up page  
+* home page with bhumika  
+* timer page with bhumika  
+* sign in/sign up page  
   
 ### idil ateş
 📝going into grade 11 this fall  
 📍 istanbul, turkey  
  🎻 violin 🎼 music 📚 reading 🏊🏼‍♀️ swimming  
 👩🏻‍💻worked on  
-resources page with aziza  
-music page with aziza   
+* resources page with aziza  
+* music page with aziza   
   
 ### aziza karimova
 🏫graduated from “bilim-innovation lyceum” for gifted girls in Nur-Sultan  
 📍nur-sultan, kazakhstan  
 💃 dancing 📘 reading  🎵 music  
 💻worked on  
-resources page with idil  
-music page with idil  
+* resources page with idil  
+* music page with idil  
 
   
 ## our app
