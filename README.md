@@ -7,7 +7,7 @@ a web app that 3 teammates and I built in 3 days for our Kode with Klossy final 
 📚 entering grade 11 this fall  
 📍 toronto, ontario, canada  
 coding 💻 - UX design 🎨 - badminton 🏸 - piano 🎹  
-🧑‍💻 worked on  
+🧑‍💻 worked on
 * home page with sherlyn  
 * timer page with sherlyn  
 * note-taking page  
@@ -17,7 +17,7 @@ coding 💻 - UX design 🎨 - badminton 🏸 - piano 🎹
 ✍going into grade 10 next year  
 📍toronto, ontario, canada  
 🎻cello  🎨art/anime  🎮gaming  🏐volleyball  🎧music  
-⌨️worked on  
+⌨️worked on
 * home page with bhumika  
 * timer page with bhumika  
 * sign in/sign up page  
@@ -26,7 +26,7 @@ coding 💻 - UX design 🎨 - badminton 🏸 - piano 🎹
 📝going into grade 11 this fall  
 📍 istanbul, turkey  
  🎻 violin 🎼 music 📚 reading 🏊🏼‍♀️ swimming  
-👩🏻‍💻worked on  
+👩🏻‍💻worked on
 * resources page with aziza  
 * music page with aziza   
   
@@ -34,7 +34,7 @@ coding 💻 - UX design 🎨 - badminton 🏸 - piano 🎹
 🏫graduated from “bilim-innovation lyceum” for gifted girls in Nur-Sultan  
 📍nur-sultan, kazakhstan  
 💃 dancing 📘 reading  🎵 music  
-💻worked on  
+💻worked on
 * resources page with idil  
 * music page with idil  
 
